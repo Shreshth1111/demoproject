@@ -1,2 +1,2 @@
 echo "Welcome to samplecode"
-echo "this is my first project"
+echo "this is my firstt project"
